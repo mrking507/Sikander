@@ -1,0 +1,6 @@
+{
+  "name": "SK Watches — Luxury Horology",
+  "description": "Premium luxury watch store featuring handcrafted black-and-gold timepieces. TIME IS YOUR STYLE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
